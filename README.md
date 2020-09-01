@@ -214,6 +214,12 @@ function test() {
 | Phone    | $12   |
 | Pipe     | $1    |
 
+----
+
+#### 特殊符号 HTML Entities Codes
+
+
+
 
 
 
