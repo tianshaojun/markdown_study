@@ -10,5 +10,7 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 
 ## MdEditor是一个在线编辑Markdown文档的编辑器
 
+*MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原始的Markdown尚不具备。*
+
 
 
