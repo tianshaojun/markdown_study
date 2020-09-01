@@ -102,7 +102,7 @@ GFM a-tail link @panda
 #### JS代码
 ```javascript
 function test() {
-console.log("Hello world!");
+    console.log("Hello world!");
 }
 ```
 
