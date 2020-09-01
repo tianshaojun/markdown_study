@@ -182,10 +182,17 @@ function test() {
  ### 绘制表格 Tables
  
  | 项目 | 价格 | 数量 |
- | :---: | :---: | :------: |
+ | :---: | :---: | :---: |
  | 计算机 | $1600 | 5 |
  | 手机 | $12 | 12 |
  | 管线 | $1 | 234 |
+ 
+ First Header | Second Header 
+ ------------ | -------------
+ Content Cell | Content Cell
+ Content Cell | Content Cell
+ 
+ 
  
  
  
