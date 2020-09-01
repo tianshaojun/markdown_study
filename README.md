@@ -78,6 +78,15 @@ GFM a-tail link @panda
 
 > @pandao
 
+### 多语言代码高亮 Codes
+
+#### 行内代码 Inline code
+
+
+执行命令：`npm install marked`
+
+
+
 
 
 
