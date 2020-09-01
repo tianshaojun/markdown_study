@@ -44,6 +44,10 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 
 **粗体**  __粗体__
 
+***粗斜体***  ___粗斜体___
+
+
+
 
 
 
