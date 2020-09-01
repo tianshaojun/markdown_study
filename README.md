@@ -40,6 +40,10 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 
 ~~删除线~~  <s>删除线(开启识别HTML标签时)</s>
 
+*斜体字*  _斜体字_
+
+
+
 
 
 
