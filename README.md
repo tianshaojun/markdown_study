@@ -46,7 +46,7 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 
 ***粗斜体***  ___粗斜体___
 
-下标:X<sub>2</sub>,  上标:O<sup>2</sup>
+下标 : X<sub>2</sub> ,  上标 : O<sup>2</sup>
 
 
 
