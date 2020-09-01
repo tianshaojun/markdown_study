@@ -230,9 +230,9 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 ### Emoji表情 :smiley:
 
-> Blockquotes :heart:
+> Blockquotes :smiley:
 
-#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :heart:
+#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :smiley:
 
 - [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
 - [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
