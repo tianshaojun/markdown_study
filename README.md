@@ -228,7 +228,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 [========]
 
 
-### Emoji表情 :heart:
+### Emoji表情 :smiley:
 
 > Blockquotes :heart:
 
