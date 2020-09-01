@@ -232,7 +232,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 > Blockquotes :heart:
 
-#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :heart-5x:
+#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :heart:
 
 
 
