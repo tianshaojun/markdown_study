@@ -208,6 +208,12 @@ function test() {
 | col 2 is     | centered        | $12          |
 | zebra stripes | are neat       | $1           |
 
+| Item     | Value |
+| -------- | ----: |
+| Computer | $1600 |
+| Phone    | $12   |
+| Pipe     | $1    |
+
 
 
 
