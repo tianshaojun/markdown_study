@@ -316,7 +316,7 @@ Andrew->>China: I am good thanks!
 
 ### End
 
-友情链接：<https://www.mdeditor.com>
+友情链接：<http://www.mdeditor.com/>
 
 
 
