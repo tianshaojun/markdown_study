@@ -319,6 +319,7 @@ Andrew->>China: I am good thanks!
 友情链接：<http://www.mdeditor.com/>
 
 本地秋天美图引用:
+
 ![](https://github.com/tianshaojun/markdown_study/blob/master/img/01.jpg)
 
 
