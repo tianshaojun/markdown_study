@@ -92,7 +92,9 @@ GFM a-tail link @panda
      <?php
         echo "Hello world!";
      ?>
-
+预格式化文本：
+    |111|222|
+    |---|---|
 
 
 
