@@ -35,5 +35,8 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 
 ###### 标题H6
 
+### 字符效果和横线等
+---
+
 
 
