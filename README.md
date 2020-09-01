@@ -126,6 +126,16 @@ function test() {
     </body>
 </html>
 ```
+### 图片 Images
+
+图片加链接（Image + Link）
+
+[![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "markdown")
+
+> Follow your heart.
+
+---
+
 
 
 
