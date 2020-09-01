@@ -48,6 +48,11 @@ MdEditor源于Pandao的JavaScript开源项目，开源地址[Editor.md](https://
 
 下标 : X<sub>2</sub> ,  上标 : O<sup>2</sup>
 
+**缩写(同HTML的abbr标签)**
+> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+
+
+
 
 
 
