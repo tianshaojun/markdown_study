@@ -246,7 +246,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 \*literal asterisks\*
 
-[========]
+[===============]
 
 
 
