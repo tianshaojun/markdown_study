@@ -94,8 +94,10 @@ GFM a-tail link @panda
      ?>
 预格式化文本：
 
-    |111|222|
-    |---|---|
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
 
 
 
