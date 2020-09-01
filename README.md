@@ -12,7 +12,6 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 
 *MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原始的Markdown尚不具备。*
 
-> Markdown增强版中比较有名的有Markdown Extra、 MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如 Pandoc, Pandao; 要么基于网站，如Github和Wikipedia，在语法上兼容，但在一些语法和渲染效果上有改动。
-~~Pandoc~~
+> Markdown增强版中比较有名的有Markdown Extra、 MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如<s>Pandoc</s>, Pandao; 要么基于网站，如Github和Wikipedia，在语法上兼容，但在一些语法和渲染效果上有改动。
 
 
